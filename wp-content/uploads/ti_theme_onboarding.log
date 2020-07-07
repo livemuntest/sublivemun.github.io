@@ -1,0 +1,22 @@
+[24/Jun/2020:13:48:08] (ℹ️): WordPress Instance Info:
+[24/Jun/2020:13:48:08] (ℹ️): Home URL : https://livemun.com
+[24/Jun/2020:13:48:08] (ℹ️): Site URL : https://livemun.com
+[24/Jun/2020:13:48:08] (ℹ️): WordPress Version : 5.4.2
+[24/Jun/2020:13:48:08] (ℹ️): Onboarding Version : 1.0.0
+[24/Jun/2020:13:48:08] (ℹ️): Multisite : No
+[24/Jun/2020:13:48:08] (ℹ️): Server Info : Apache/2.4.43 (cPanel) OpenSSL/1.1.1g mod_bwlimited/1.4 Phusion_Passenger/5.3.7
+[24/Jun/2020:13:48:08] (ℹ️): PHP Version : 7.2.31
+[24/Jun/2020:13:48:08] (ℹ️): HTTPS : Yes
+[24/Jun/2020:13:48:08] (ℹ️): PHP Max Execution Time : 600
+[24/Jun/2020:13:48:08] (ℹ️): PHP Max Input Vars : 10000
+[24/Jun/2020:13:48:08] (ℹ️): Max Upload Size : 536870912
+[24/Jun/2020:13:48:08] (ℹ️): Plugins:
+[24/Jun/2020:13:48:08] (ℹ️): [PLUGIN] Elementor : v2.9.13 (Elementor.com)
+[24/Jun/2020:13:48:08] (ℹ️): [PLUGIN] Favicon by RealFaviconGenerator : v1.3.18 (Philippe Bernard)
+[24/Jun/2020:13:48:08] (ℹ️): [PLUGIN] Give - Donation Plugin : v2.6.3 (GiveWP)
+[24/Jun/2020:13:48:08] (ℹ️): [PLUGIN] Site Kit by Google : v1.8.1 (Google)
+[24/Jun/2020:13:48:08] (ℹ️): [PLUGIN] Insert Headers and Footers : v1.4.5 (WPBeginner)
+[24/Jun/2020:13:48:08] (ℹ️): [PLUGIN] Modern Events Calendar Lite : v5.4.6 (Webnus)
+[24/Jun/2020:13:48:08] (ℹ️): [PLUGIN] PHP Compatibility Checker : v1.5.0 (WP Engine)
+[24/Jun/2020:13:48:08] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.8 (Themeisle)
+[24/Jun/2020:13:48:08] (ℹ️): [PLUGIN] WP Statistics : v12.6.13 (VeronaLabs)
